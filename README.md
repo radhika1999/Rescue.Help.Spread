@@ -2,7 +2,7 @@
 Application for flood risk management
 
 App options to prepare for natural disaster floods:
-Early warning systems are increasingly considered to be an integral component of any disaster preparedness. Several countries have significantly reduced deaths by developing effective early warning systems.
+Early warning systems are increasingly considered to be an integral component of any disaster preparedness. Several countries have significantly reduced death tolls by developing effective early warning systems.
 Although it can’t prevent all damages but can reduce the losses of lives to some extent. Our main focus is on losses due to floods like the one that recently occurred in Kerala, India. This heavy flooding has caused the deaths of at least 360 people and had been one of the worst natural disaster to strike the Southern Indian state in decades.
 The main reason of this becoming so bad was failure of India’s Central Water Commission to introduce a flood forecasting system to issue warnings.  
 *App idea that we can use:
@@ -10,6 +10,6 @@ The main reason of this becoming so bad was failure of India’s Central Water C
  
 2. For people who have already got stuck somewhere in the flood affected part. The app will be able to show the person the nearest shelter/rescue camp available using the person’s location and the use of google maps in which all the updated safety locations will be marked as per the immediate info from central disaster management agencies. Besides the user will also be able to send SOS signals to some of their registered contacts and the rescue team along with a message if they are okay or not, based on which they will be able to track down his/her location. 
 
-*The app will start with its home page, displaying the options; Search nearest rescue shelter, find people in need, alerts about natural disaster (provides most recent news updates on the disaster), nearest hospital locations (to avoid accumulation of mass at one region), a section where one can put the stuff needed for rescue operations (could be anything like some food, basic commodities, blood). Basically, it will also create a community where the people inflicted with the natural disaster as well as other people in some different part can communicate with each other and thus affected one may seek for help and others may contribute in one way or the other in helping the affected people. This service will connect the sufferers and providers and will help them meet their requirements and boost up rescue operation.    
+*The app will start with its home page, displaying the options: Search nearest rescue shelter, find people in need, alerts about natural disaster (provides most recent news updates on the disaster), nearest hospital locations (to avoid accumulation of mass at one region), a section where one can put the stuff needed for rescue operations (could be anything like some food, basic commodities, blood). Basically, it will also create a community where the people inflicted with the natural disaster as well as other people in some different part can communicate with each other and thus affected one may seek for help and others may contribute in one way or the other in helping the affected people. This service will connect the sufferers and providers and will help them meet their requirements and boost up rescue operation.    
 
 
